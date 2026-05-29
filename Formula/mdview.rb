@@ -7,11 +7,11 @@ class Mdview < Formula
   on_macos do
     on_arm do
       url "https://github.com/harrystamatoukos/mdview/releases/download/v0.1.0/mdview-0.1.0-aarch64-apple-darwin.tar.gz"
-      sha256 "cc11207040348084ab3fa1809551e1d79e5aaacd3c391aa44594d59c236b345c"
+      sha256 "9f32eeec30912a5c9172c6c82c2449846b32018170670ba9f88753e7537a3165"
     end
     on_intel do
       url "https://github.com/harrystamatoukos/mdview/releases/download/v0.1.0/mdview-0.1.0-x86_64-apple-darwin.tar.gz"
-      sha256 "c604d45d8271e5a7989d48089d9a433e5efb7ac0cbf73460616380857a88970c"
+      sha256 "2155ee298a0608ffa54469457ecbdd831961ac1e48991f445aedf2da793a5cc9"
     end
   end
 
