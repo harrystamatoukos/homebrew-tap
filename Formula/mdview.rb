@@ -1,17 +1,17 @@
 class Mdview < Formula
   desc "Beautiful read-only terminal markdown reader"
   homepage "https://github.com/harrystamatoukos/mdview"
-  version "0.1.1"
+  version "0.1.2"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://github.com/harrystamatoukos/mdview/releases/download/v0.1.1/mdview-0.1.1-aarch64-apple-darwin.tar.gz"
-      sha256 "f8739395e163a25a11f2b1f0faeef00f2991abe7f6329308765f0d2debfae17a"
+      url "https://github.com/harrystamatoukos/mdview/releases/download/v0.1.2/mdview-0.1.2-aarch64-apple-darwin.tar.gz"
+      sha256 "08737a281c79eb0201d6c076db72b12542d8ac9163e9d06af8a0c4c77019b0f3"
     end
     on_intel do
-      url "https://github.com/harrystamatoukos/mdview/releases/download/v0.1.1/mdview-0.1.1-x86_64-apple-darwin.tar.gz"
-      sha256 "1c71cdc084f4143e45ba72b3ac324ed349dffc15dfd8d8a732bf5ab0389cd750"
+      url "https://github.com/harrystamatoukos/mdview/releases/download/v0.1.2/mdview-0.1.2-x86_64-apple-darwin.tar.gz"
+      sha256 "34abee795b77ce3b6957f65aec1cf762b62ffdb994085f1dc1a8d04f65ed4083"
     end
   end
 
